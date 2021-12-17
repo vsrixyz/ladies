@@ -1,0 +1,28 @@
+
+
+- Pop quiz
+	- Name the person on the right
+	- Easy, that's Elton John
+	- How about the left?
+	- They're Elton John and his lyricist Bernie Taupin
+	- And to me, they represenation the relationship between language and design in a user experience. Design is what people "see." It's also abstract like music. The thickness of lines, a certain shade of green, the roundness or lack of roundness all convey something to the user. 
+	- The funny thing about lyrics, you can hum a tune you've heard a million times but only a few clever folks manage to learn the lyrics. And even then, do you ever really know what they mean? The lyrics just kind of guide you along from stanza to stanza. 
+- Today I want to talk about the relationship between language and design when it comes to building digital user experiences, also known as software or apps. 
+- I am a content designer
+- What is content design?
+	- [[UX writing vs content design]]
+	- [[Writing disciplines compared]]
+	- [[Marketing vs UX]]
+	- [[we make roadsigns better.png]]
+	- [[twitter-reservation.jpeg]]
+- What designing with words looks like (miro boards??)
+	- [[○ Case studies]] 
+	- [[○ The swoon board]]
+	- Crush  [[Confirm shaming]]
+- Principles of content design
+	- Tell better stories
+	- Align on concepts
+	- Reduce complexity
+	- Solve the real problem
+		- [[○ Signs of bad design]]
+	- Share the knowledge
